@@ -1,0 +1,9 @@
+{
+    "name": "node-ssh-help",
+    "version": "0.0.1",
+    "description": "Some quick ssh help",
+    "preferGlobal": "true",
+    "bin": { "sshhelp": "app.js" },
+    "author": "Josh Vermaire",
+    "engines": { "node": "*" }
+}
